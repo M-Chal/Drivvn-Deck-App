@@ -1,0 +1,23 @@
+.Card-Deck{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.Snap{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.Snap-Text{
+    display: flex;
+    align-items: center;
+    height:150px;
+}
+
+.Cards{
+    display: flex;
+    flex-direction: row;
+}
